@@ -2,6 +2,7 @@
 
 ## About Me
 Software Engineering student with strong skills in HTML, CSS, JavaScript, and Django (Python).  
+
 ---
 ## 🚀 Tech Stack
 - HTML
@@ -11,7 +12,11 @@ Software Engineering student with strong skills in HTML, CSS, JavaScript, and Dj
 - Django
 
 ---
-
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
+---
 ## 📫 Connect With Me
 - Email: tesfayebereket909@gmail.com
 - discord: @bekaz_1
