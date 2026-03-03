@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Bereket Tesfaye 👋
+
+## About Me
+Software Engineering student with strong skills in HTML, CSS, JavaScript, and Django (Python).  
+I enjoy building full-stack web applications and continuously improving my understanding of Data Structures and Algorithms.
+---
+## 🚀 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Python
+- Django
+
+---
+
+## 📫 Connect With Me
+- Email: tesfayebereket909@gmail.com
+- discord: @bekaz_1
 
 <!--
 **bereket-tesAye/bereket-tesAye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
