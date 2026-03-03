@@ -2,7 +2,6 @@
 
 ## About Me
 Software Engineering student with strong skills in HTML, CSS, JavaScript, and Django (Python).  
-I enjoy building full-stack web applications and continuously improving my understanding of Data Structures and Algorithms.
 ---
 ## 🚀 Tech Stack
 - HTML
