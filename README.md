@@ -10,6 +10,8 @@ Software Engineering student with strong skills in HTML, CSS, JavaScript, and Dj
 - JavaScript
 - Python
 - Django
+- c++
+- java
 
 ---
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
