@@ -21,6 +21,7 @@ Software Engineering student with strong skills in HTML, CSS, JavaScript, and Dj
 ## 📫 Connect With Me
 - Email: tesfayebereket909@gmail.com
 - discord: @bekaz_1
+- X(Twitter): @BeksTsfy4
 
 <!--
 **bereket-tesAye/bereket-tesAye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
